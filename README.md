@@ -1,6 +1,6 @@
 # choiceMaker
 
-###2-in-1 Decision Tool: Magic 8 Ball and RNG. - The ultimate decision helper featuring a Magic 8 Ball and a Number Generator.
+### 2-in-1 Decision Tool: Magic 8 Ball and RNG. - The ultimate decision helper featuring a Magic 8 Ball and a Number Generator.
 
 🚀 How to Run
 Run the application using Node.js:
