@@ -8,7 +8,7 @@ const wordsMode = () => {if (modeChoice === 1) {
 
 const randomIndex = Math.floor(Math.random() * words.length);
 
-console.log('Magic Ball says: ' + [randomIndex]);
+console.log('Magic Ball says: ' + words[randomIndex]);
 
 return words[randomIndex];
 }};
